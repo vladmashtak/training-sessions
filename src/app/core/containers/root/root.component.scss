@@ -1,0 +1,11 @@
+.root {
+  &__sidenav-container {
+    height: calc(100% - 64px);
+    width: 100%;
+  }
+
+  &__main-content {
+    height: 100%;
+    width: 100%;
+  }
+}
